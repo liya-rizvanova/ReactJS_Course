@@ -1,0 +1,24 @@
+.comments-container {
+  margin: 20px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+.comments-container ul {
+  list-style: none;
+  padding: 0;
+}
+.comments-container li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.comments-container button {
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}/*# sourceMappingURL=CommentsList.css.map */
